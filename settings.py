@@ -16,8 +16,8 @@ ZPB = {
         'dialect': 'mysql',
         'driver': 'mysqldb',
         'username': 'sync_site_user',
-        'password': 'ffd#@FDAS@23da2',
-        'host': '119.29.154.182',
+        'password': '',
+        'host': '192.168.1.200',
         'port': 3306,
         'database': 'helper_db',
         'charset': 'utf8'
@@ -26,8 +26,8 @@ ZPB = {
         'dialect': 'mysql',
         'driver': 'mysqldb',
         'username': 'helper_user',
-        'password': 'fas@kd$29l@k2l',
-        'host': '61.144.244.121',
+        'password': '',
+        'host': '192.168.1.201',
         'port': 3306,
         'database': 'hr_helper',
         'charset': 'utf8'
@@ -44,7 +44,7 @@ ZPB = {
         'port': 8700
     },
     'ygys':{
-        'soapuri': 'http://61.144.244.103:8700/ResumeService.asmx?wsdl',
+        'soapuri': 'http://192.168.1.202/ResumeService.asmx?wsdl',
         'username': 'none',
         'password': 'none',
         # 'soapuri': 'http://service.ygys.net/ResumeService.asmx?wsdl',
@@ -57,9 +57,9 @@ ZPB = {
         'damauri': 'http://api.dama2.com:7766/app',
         # 'damauri': 'http://117.28.242.136:7766/app',
         'appid': 34425,
-        'appkey': '958f6f5a408814c87703ba8a76fea95f',
-        'username': '707167666',
-        'passwd': 'dama2'
+        'appkey': 'xxxxx',
+        'username': 'xxxxx',
+        'passwd': 'xxxx'
     },
     'proxy': {
         # 'host': '192.168.1.107',
